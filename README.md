@@ -86,14 +86,21 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 
 ## GitHub pulse
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gkmraju&show_icons=true&hide_border=true&bg_color=07111f&title_color=2dd4bf&text_color=cbd5e1&icon_color=f5b942&rank_icon=github" alt="GKM Raju's GitHub stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=gkmraju&hide_border=true&background=07111F&ring=2DD4BF&fire=F5B942&currStreakLabel=2DD4BF&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GKM Raju's contribution streak" />
-</div>
+<!-- GITHUB-PULSE:START -->
+| 🔥 Current streak | 🏆 Longest streak | ⚡ Contributions · 365d | 📅 Active days · 365d |
+|:--:|:--:|:--:|:--:|
+| **Refresh pending** | **Refresh pending** | **Refresh pending** | **Refresh pending** |
 
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gkmraju&bg_color=07111f&color=cbd5e1&line=2dd4bf&point=f5b942&area=true&area_color=0d9488&hide_border=true&custom_title=Contribution%20Signal" alt="GKM Raju's contribution activity graph" />
-</div>
+| 📦 Public repositories | ✅ Merged PRs | 🔀 PRs · 365d | 👀 Reviews · 365d |
+|:--:|:--:|:--:|:--:|
+| **Refresh pending** | **Refresh pending** | **Refresh pending** | **Refresh pending** |
+
+### Recent public activity
+
+The first repository-native refresh will run automatically after this update reaches `main`.
+
+<sub>Updated automatically from GitHub's API. The last successful snapshot remains visible if a refresh is interrupted.</sub>
+<!-- GITHUB-PULSE:END -->
 
 ## Build with me
 
