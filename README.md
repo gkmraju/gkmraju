@@ -93,7 +93,7 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 
 | 📦 Public repositories | ✅ Merged PRs | 🔀 PRs · 365d | 👀 Reviews · 365d |
 |:--:|:--:|:--:|:--:|
-| **24** | **Refresh pending** | **Refresh pending** | **Refresh pending** |
+| **Refresh pending** | **Refresh pending** | **Refresh pending** | **Refresh pending** |
 
 ### Recent public activity
 
