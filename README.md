@@ -84,16 +84,18 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 | **Developer tools** | Local-first analytics, workflow automation, discovery engines and practical AI utilities |
 | **Open source** | Evidence-led contributions, responsible automation and useful documentation |
 
-## GitHub pulse
+## GitHub stats & pulse
 
 <!-- GITHUB-PULSE:START -->
-| 🟢 Current status | 📦 Public repositories | 🔀 Authored PRs · 365d | ✅ Merged PRs |
+| 🔥 Current streak | 🏆 Longest streak | ⚡ Contributions · 365d | 📅 Active days · 365d |
 |:--:|:--:|:--:|:--:|
-| **Active today** | **22** | **25** | **10** |
+| **16 days** | **16 days** | **126** | **38** |
 
-| 🎯 Primary focus | 🌍 External PRs · 365d | 🛠 Owned-project PRs · 365d | 📍 Based in |
+| 📦 Public repositories | 🔀 Authored PRs · 365d | ✅ Merged PRs | 🌍 External PRs · 365d |
 |:--:|:--:|:--:|:--:|
-| **AI agents + Quant** | **3** | **22** | **Visakhapatnam, India** |
+| **22** | **25** | **10** | **3** |
+
+<div align="center"><sub>Focused on AI agents, quant systems and useful open-source automation.</sub></div>
 
 ### Recent public work
 
@@ -105,7 +107,7 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 | Bounded PDG guard-query documentation | `abhigyanpatwari/GitNexus` | [PR #3042](https://github.com/abhigyanpatwari/GitNexus/pull/3042) |
 | Deterministic bounty ranking tests | `gkmraju/Bounty-Radar` | [PR #16](https://github.com/gkmraju/Bounty-Radar/pull/16) |
 
-<sub>Verified snapshot · 26 August 2026. Daily automation may replace this block with newer GitHub-native figures; this complete snapshot remains the fallback.</sub>
+<sub>Verified directly from GitHub's contribution calendar and repository data · 26 August 2026. Daily automation keeps this snapshot current.</sub>
 <!-- GITHUB-PULSE:END -->
 
 ## Build with me
