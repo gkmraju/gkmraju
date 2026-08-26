@@ -1,0 +1,78 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#0B1727"/>
+      <stop offset="1" stop-color="#061C1B"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="310" y1="88" x2="936" y2="279" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5B942"/>
+      <stop offset="0.48" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+    <linearGradient id="chart" x1="753" y1="236" x2="1114" y2="105" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DD4BF" stop-opacity="0"/>
+      <stop offset="0.44" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#F5B942"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1040 62) rotate(143.13) scale(432.2 341.4)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14B8A6" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="round">
+      <rect width="1200" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect width="1200" height="360" fill="url(#glow)"/>
+
+    <circle cx="1065" cy="80" r="145" fill="#0D9488" fill-opacity="0.08"/>
+    <circle cx="1086" cy="63" r="90" stroke="#2DD4BF" stroke-opacity="0.13"/>
+    <circle cx="1086" cy="63" r="58" stroke="#F5B942" stroke-opacity="0.10"/>
+
+    <g opacity="0.72">
+      <path d="M778 246L827 216L872 225L922 168L969 183L1018 123L1061 142L1117 83" stroke="url(#chart)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M778 246L827 216L872 225L922 168L969 183L1018 123L1061 142L1117 83" stroke="#2DD4BF" stroke-opacity="0.14" stroke-width="12" filter="url(#blur)"/>
+      <circle cx="827" cy="216" r="5" fill="#2DD4BF"/>
+      <circle cx="922" cy="168" r="5" fill="#2DD4BF"/>
+      <circle cx="1018" cy="123" r="5" fill="#F5B942"/>
+      <circle cx="1117" cy="83" r="6" fill="#F5B942"/>
+    </g>
+
+    <g opacity="0.7">
+      <path d="M802 95L850 70L898 98L944 63" stroke="#38BDF8" stroke-opacity="0.38"/>
+      <path d="M850 70L865 126L898 98" stroke="#2DD4BF" stroke-opacity="0.38"/>
+      <circle cx="802" cy="95" r="5" fill="#38BDF8"/>
+      <circle cx="850" cy="70" r="7" fill="#2DD4BF"/>
+      <circle cx="865" cy="126" r="5" fill="#F5B942"/>
+      <circle cx="898" cy="98" r="5" fill="#38BDF8"/>
+      <circle cx="944" cy="63" r="5" fill="#2DD4BF"/>
+    </g>
+
+    <rect x="70" y="62" width="148" height="28" rx="14" fill="#102436" stroke="#2DD4BF" stroke-opacity="0.32"/>
+    <circle cx="89" cy="76" r="4" fill="#2DD4BF"/>
+    <text x="102" y="81" fill="#9DEDE1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">BUILDING IN PUBLIC</text>
+
+    <text x="68" y="164" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="800" letter-spacing="-2">GKM RAJU</text>
+    <rect x="69" y="183" width="554" height="4" rx="2" fill="url(#accent)"/>
+    <text x="69" y="231" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0.4">AI AGENTS  •  QUANT SYSTEMS  •  OPEN SOURCE</text>
+    <text x="69" y="273" fill="#7F93A8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="0.2">Turning ambitious ideas into useful, private and measurable software.</text>
+
+    <g transform="translate(69 304)">
+      <circle cx="8" cy="8" r="8" fill="#2DD4BF" fill-opacity="0.18"/>
+      <circle cx="8" cy="8" r="3" fill="#2DD4BF"/>
+      <text x="26" y="13" fill="#9FB2C5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="0.8">VISAKHAPATNAM · INDIA</text>
+    </g>
+
+    <rect x="0.5" y="0.5" width="1199" height="359" rx="27.5" stroke="#2DD4BF" stroke-opacity="0.16"/>
+  </g>
+</svg>
