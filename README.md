@@ -1,34 +1,110 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is GKM Raju
-=================================================================================================================================
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="GKM Raju — AI Agents, Quant Systems and Open Source" />
+</div>
 
-Learner
--------
+<div align="center">
+  <a href="https://github.com/gkmraju?tab=followers"><img src="https://img.shields.io/github/followers/gkmraju?style=for-the-badge&logo=github&label=Builders%20following&labelColor=0b1727&color=14b8a6" alt="GitHub followers" /></a>
+  <a href="mailto:rajujumpsforu@gmail.com"><img src="https://img.shields.io/badge/Let's_build-Email_me-f5b942?style=for-the-badge&logo=gmail&logoColor=07111f&labelColor=0b1727" alt="Email GKM Raju" /></a>
+  <img src="https://komarev.com/ghpvc/?username=gkmraju&style=for-the-badge&color=0d9488&label=PROFILE+VISITS" alt="Profile visits" />
+</div>
 
-AI | Quant | Algo Trader and Developer - Open Work
+<br />
 
-* 🌍  I'm based in Visakhapatnam, Andhra Pradesh, India
-* ✉️  You can contact me at [rajujumpsforu@gmail.com](mailto:rajujumpsforu@gmail.com)
-* 🧠  I'm currently learning MCPs, RAG, Agent architecture, Multi-agent orchestration patterns, AI agent observability and evals...
+## Hello — I build systems that find signal in noise.
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" alt="Rust" title="Rust" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a>
-</p>
+I am **GKM Raju**, a builder and lifelong learner from Visakhapatnam, India. My work sits where **AI agents, financial markets, developer tooling, and useful automation** meet.
 
-### Socials
+I like software that is private by design, measurable in practice, and capable of doing real work—not just producing impressive demos.
 
-<p align="left"> <a href="https://www.github.com/gkmraju" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/gkmraju" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/gkmraju?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Badges
+```text
+CURRENT SIGNAL  →  AI agents · RAG · MCP · multi-agent orchestration · observability · quant research
+BUILDING STYLE  →  Local-first when possible · automation-first · evidence over hype
+OPEN TO         →  Open-source collaboration · ambitious products · meaningful contributions
+```
 
-<b>My GitHub Stats</b>
+## Selected work
 
-<a href="http://www.github.com/gkmraju"><img src="https://github-readme-stats.vercel.app/api?username=gkmraju&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gkmraju's GitHub stats" /></a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gkmraju/PennyRush">💸 PennyRush</a></h3>
+      <p>Privacy-first personal finance for Android and web. Imports statements and scans receipts without keeping the raw files.</p>
+      <a href="https://github.com/gkmraju/PennyRush"><img src="https://img.shields.io/badge/Kotlin%20%2B%20Compose-Android-B4531B?style=flat-square" alt="Android" /></a>
+      <a href="https://github.com/gkmraju/PennyRush"><img src="https://img.shields.io/badge/Next.js-Web-111827?style=flat-square" alt="Next.js" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gkmraju/Intelligent-Recruiter">🧠 Intelligent Recruiter</a></h3>
+      <p>CPU-only candidate discovery that ranks 100K profiles with hybrid retrieval and fact-grounded recommendations.</p>
+      <a href="https://github.com/gkmraju/Intelligent-Recruiter"><img src="https://img.shields.io/badge/Python-AI%20ranking-2563EB?style=flat-square" alt="Python" /></a>
+      <a href="https://github.com/gkmraju/Intelligent-Recruiter"><img src="https://img.shields.io/badge/Runtime-Offline-16A34A?style=flat-square" alt="Offline runtime" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gkmraju/AI-Usage-Analytics">📊 AI Usage Analytics</a></h3>
+      <p>Local-first analytics for AI coding assistants: estimated tokens, costs, quotas, sessions, and project activity.</p>
+      <a href="https://github.com/gkmraju/AI-Usage-Analytics"><img src="https://img.shields.io/badge/Privacy-Local--first-22C55E?style=flat-square" alt="Local first" /></a>
+      <a href="https://github.com/gkmraju/AI-Usage-Analytics"><img src="https://img.shields.io/badge/Telemetry-None-111827?style=flat-square" alt="No telemetry" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gkmraju/Bounty-Radar">🎯 Bounty Radar</a></h3>
+      <p>Normalizes, scores, stores, and publishes the strongest OSS and responsible-disclosure bounty opportunities.</p>
+      <a href="https://github.com/gkmraju/Bounty-Radar"><img src="https://img.shields.io/badge/Python-Automation-0D9488?style=flat-square" alt="Python automation" /></a>
+      <a href="https://github.com/gkmraju/Bounty-Radar"><img src="https://img.shields.io/badge/Delivery-Telegram-229ED9?style=flat-square" alt="Telegram" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gkmraju/quant-github-scout">📡 Quant GitHub Scout</a></h3>
+      <p>Finds and ranks fresh repositories across quant research, algo trading, crypto, backtesting, and Indian options.</p>
+      <a href="https://github.com/gkmraju/quant-github-scout"><img src="https://img.shields.io/badge/Focus-Quant%20discovery-F59E0B?style=flat-square" alt="Quant discovery" /></a>
+      <a href="https://github.com/gkmraju/quant-github-scout"><img src="https://img.shields.io/badge/Reports-Markdown%20%7C%20PDF-334155?style=flat-square" alt="Reports" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/gkmraju/GitHub-Contribution-Agent">🌱 Contribution Agent</a></h3>
+      <p>A responsible workflow for discovering and completing small, useful open-source contributions every day.</p>
+      <a href="https://github.com/gkmraju/GitHub-Contribution-Agent"><img src="https://img.shields.io/badge/Open%20source-Daily-14B8A6?style=flat-square" alt="Daily open source" /></a>
+      <a href="https://github.com/gkmraju/GitHub-Contribution-Agent"><img src="https://img.shields.io/badge/Principle-Impact%20%3E%20activity-F5B942?style=flat-square" alt="Impact over activity" /></a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/gkmraju"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gkmraju&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+## The builder's toolbox
 
-<a href="https://github.com/gkmraju" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkmraju&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,pytorch,rust,docker,aws,gcp,mongodb,mysql,git&perline=12" alt="Python, TypeScript, React, Next.js, PyTorch, Rust, Docker, AWS, GCP, MongoDB, MySQL and Git" />
+</div>
 
-<b>Top Repositories</b>
+<br />
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+| Domain | What I explore and build |
+|:--|:--|
+| **Agentic AI** | MCP, RAG, tool-using agents, multi-agent orchestration, evaluation and observability |
+| **Quant systems** | Market structure, GEX, systematic research, backtesting and trading automation |
+| **Developer tools** | Local-first analytics, workflow automation, discovery engines and practical AI utilities |
+| **Open source** | Evidence-led contributions, responsible automation and useful documentation |
+
+## GitHub pulse
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gkmraju&show_icons=true&hide_border=true&bg_color=07111f&title_color=2dd4bf&text_color=cbd5e1&icon_color=f5b942&rank_icon=github" alt="GKM Raju's GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=gkmraju&hide_border=true&background=07111F&ring=2DD4BF&fire=F5B942&currStreakLabel=2DD4BF&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" alt="GKM Raju's contribution streak" />
+</div>
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=gkmraju&bg_color=07111f&color=cbd5e1&line=2dd4bf&point=f5b942&area=true&area_color=0d9488&hide_border=true&custom_title=Contribution%20Signal" alt="GKM Raju's contribution activity graph" />
+</div>
+
+## Build with me
+
+If you are working on **AI infrastructure, quant research, private-by-design products, or developer productivity**, I would enjoy comparing notes—or building something genuinely useful together.
+
+<div align="center">
+  <a href="mailto:rajujumpsforu@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-rajujumpsforu%40gmail.com-F5B942?style=for-the-badge&labelColor=07111F" alt="Email rajujumpsforu@gmail.com" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub><strong>Signal over noise. Systems over shortcuts. Impact over activity.</strong></sub>
+</div>
