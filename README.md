@@ -10,6 +10,14 @@
 
 <br />
 
+<div align="center">
+  <a href="https://github.com/gkmraju?tab=overview">
+    <img src="./assets/contribution-graph.svg" width="100%" alt="GKM Raju's contribution signal for the last year" />
+  </a>
+</div>
+
+<br />
+
 ## Hello — I build systems that find signal in noise.
 
 I am **GKM Raju**, a builder and lifelong learner from Visakhapatnam, India. My work sits where **AI agents, financial markets, developer tooling, and useful automation** meet.
@@ -89,7 +97,7 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 <!-- GITHUB-PULSE:START -->
 | 🔥 Current streak | 🏆 Longest streak | ⚡ Contributions · 365d | 📅 Active days · 365d |
 |:--:|:--:|:--:|:--:|
-| **16 days** | **16 days** | **126** | **38** |
+| **16 days** | **16 days** | **129** | **38** |
 
 | 📦 Public repositories | 🔀 Authored PRs · 365d | ✅ Merged PRs | 🌍 External PRs · 365d |
 |:--:|:--:|:--:|:--:|
