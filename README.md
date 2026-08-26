@@ -87,19 +87,25 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 ## GitHub pulse
 
 <!-- GITHUB-PULSE:START -->
-| 🔥 Current streak | 🏆 Longest streak | ⚡ Contributions · 365d | 📅 Active days · 365d |
+| 🟢 Current status | 📦 Public repositories | 🔀 Authored PRs · 365d | ✅ Merged PRs |
 |:--:|:--:|:--:|:--:|
-| **Refresh pending** | **Refresh pending** | **Refresh pending** | **Refresh pending** |
+| **Active today** | **22** | **25** | **10** |
 
-| 📦 Public repositories | ✅ Merged PRs | 🔀 PRs · 365d | 👀 Reviews · 365d |
+| 🎯 Primary focus | 🌍 External PRs · 365d | 🛠 Owned-project PRs · 365d | 📍 Based in |
 |:--:|:--:|:--:|:--:|
-| **Refresh pending** | **Refresh pending** | **Refresh pending** | **Refresh pending** |
+| **AI agents + Quant** | **3** | **22** | **Visakhapatnam, India** |
 
-### Recent public activity
+### Recent public work
 
-The first repository-native refresh will run automatically after this update reaches `main`.
+| Work | Repository | Link |
+|:--|:--|:--:|
+| Reliable repository-native GitHub Pulse | `gkmraju/gkmraju` | [PR #3](https://github.com/gkmraju/gkmraju/pull/3) |
+| Premium AI + quant profile redesign | `gkmraju/gkmraju` | [PR #2](https://github.com/gkmraju/gkmraju/pull/2) |
+| Persisted Tailnet configuration guidance | `paperclipai/paperclip` | [PR #12213](https://github.com/paperclipai/paperclip/pull/12213) |
+| Bounded PDG guard-query documentation | `abhigyanpatwari/GitNexus` | [PR #3042](https://github.com/abhigyanpatwari/GitNexus/pull/3042) |
+| Deterministic bounty ranking tests | `gkmraju/Bounty-Radar` | [PR #16](https://github.com/gkmraju/Bounty-Radar/pull/16) |
 
-<sub>Updated automatically from GitHub's API. The last successful snapshot remains visible if a refresh is interrupted.</sub>
+<sub>Verified snapshot · 26 August 2026. Daily automation may replace this block with newer GitHub-native figures; this complete snapshot remains the fallback.</sub>
 <!-- GITHUB-PULSE:END -->
 
 ## Build with me
