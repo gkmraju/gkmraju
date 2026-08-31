@@ -7,11 +7,14 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - "README.md"
+    paths:
+      - ".github/workflows/update-pulse.yml"
+      - "scripts/update_pulse.py"
+      - "tests/test_update_pulse.py"
 
 permissions:
   contents: write
+  issues: write
 
 concurrency:
   group: profile-pulse
@@ -20,22 +23,25 @@ concurrency:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 7
     steps:
       - name: Check out profile repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
 
-      - name: Refresh native Markdown stats
+      - name: Test pulse calculations and rendering
+        run: python -m unittest discover -s tests -p "test_update_pulse.py" -v
+
+      - name: Refresh native profile statistics
         env:
           GH_TOKEN: ${{ github.token }}
         run: python scripts/update_pulse.py
 
-      - name: Commit refreshed pulse
+      - name: Commit refreshed pulse atomically
         run: |
           if git diff --quiet -- README.md assets/contribution-graph.svg; then
             echo "Pulse is already current."
@@ -46,3 +52,29 @@ jobs:
           git add -- README.md assets/contribution-graph.svg
           git commit -m "chore: refresh profile pulse [skip ci]"
           git push
+
+      - name: Open or update a visible failure alert
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          issue_number="$(gh issue list --repo "$REPOSITORY" --state open --search 'Profile pulse refresh failed in:title' --json number --jq '.[0].number // empty')"
+          body="The automated profile pulse refresh failed. Review the run: $RUN_URL"
+          if [ -n "$issue_number" ]; then
+            gh issue comment "$issue_number" --repo "$REPOSITORY" --body "$body"
+          else
+            gh issue create --repo "$REPOSITORY" --title "Profile pulse refresh failed" --body "$body"
+          fi
+
+      - name: Close resolved failure alert
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPOSITORY: ${{ github.repository }}
+        run: |
+          gh issue list --repo "$REPOSITORY" --state open --search 'Profile pulse refresh failed in:title' --json number --jq '.[].number' |
+          while read -r issue_number; do
+            [ -z "$issue_number" ] || gh issue close "$issue_number" --repo "$REPOSITORY" --comment "The profile pulse refresh is healthy again."
+          done
