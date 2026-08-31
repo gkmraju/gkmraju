@@ -127,8 +127,18 @@ def event_summary(event: dict) -> str | None:
     kind = event.get("type", "")
     payload = event.get("payload") or {}
     if kind == "PushEvent":
-        count = int(payload.get("size") or len(payload.get("commits") or []))
-        return f"Pushed {count} commit{'s' if count != 1 else ''}"
+        raw_count = (
+            payload.get("size")
+            or payload.get("distinct_size")
+            or len(payload.get("commits") or [])
+        )
+        try:
+            count = int(raw_count)
+        except (TypeError, ValueError):
+            count = 0
+        if count > 0:
+            return f"Pushed {count} commit{'s' if count != 1 else ''}"
+        return "Pushed updates"
     if kind == "PullRequestEvent":
         return f"Pull request {payload.get('action', 'updated')}"
     if kind == "IssuesEvent":
@@ -153,7 +163,9 @@ def event_summary(event: dict) -> str | None:
 def recent_activity(events: list[dict], limit: int = 5) -> list[str]:
     rows: list[str] = []
     seen: set[tuple[str, str, str]] = set()
-    for event in events:
+    for event in sorted(
+        events, key=lambda item: item.get("created_at", ""), reverse=True
+    ):
         summary = event_summary(event)
         repository = (event.get("repo") or {}).get("name")
         created_at = event.get("created_at")

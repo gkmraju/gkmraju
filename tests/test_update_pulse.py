@@ -67,6 +67,29 @@ class PulseTests(unittest.TestCase):
         with self.assertRaises(ValueError):
             PULSE.replace_block(source + PULSE.START_MARKER, "new")
 
+    def test_push_event_without_commit_details_is_still_meaningful(self):
+        event = {"type": "PushEvent", "payload": {"size": 0, "commits": []}}
+        self.assertEqual("Pushed updates", PULSE.event_summary(event))
+
+    def test_recent_activity_is_newest_first(self):
+        events = [
+            {
+                "type": "CreateEvent",
+                "created_at": "2026-08-30T12:00:00Z",
+                "repo": {"name": "gkmraju/older"},
+                "payload": {"ref_type": "branch"},
+            },
+            {
+                "type": "CreateEvent",
+                "created_at": "2026-08-31T12:00:00Z",
+                "repo": {"name": "gkmraju/newer"},
+                "payload": {"ref_type": "branch"},
+            },
+        ]
+        rows = PULSE.recent_activity(events)
+        self.assertIn("gkmraju/newer", rows[0])
+        self.assertIn("gkmraju/older", rows[1])
+
 
 if __name__ == "__main__":
     unittest.main()
