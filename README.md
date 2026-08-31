@@ -97,25 +97,23 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 <!-- GITHUB-PULSE:START -->
 | 🔥 Current streak | 🏆 Longest streak | ⚡ Contributions · 365d | 📅 Active days · 365d |
 |:--:|:--:|:--:|:--:|
-| **16 days** | **16 days** | **129** | **38** |
+| **21 days** | **21 days** | **146** | **43** |
 
-| 📦 Public repositories | 🔀 Authored PRs · 365d | ✅ Merged PRs | 🌍 External PRs · 365d |
+| 📦 Public repositories | ✅ Merged PRs · all time | 🔀 PRs · 365d | 👀 Reviews · 365d |
 |:--:|:--:|:--:|:--:|
-| **22** | **25** | **10** | **3** |
+| **23** | **13** | **31** | **0** |
 
-<div align="center"><sub>Focused on AI agents, quant systems and useful open-source automation.</sub></div>
+### Recent public activity
 
-### Recent public work
+| Date · UTC | Activity | Repository |
+|:--|:--|:--|
+| 2026-08-29 | Pushed 0 commits | [gkmraju/deer-flow](https://github.com/gkmraju/deer-flow) |
+| 2026-08-31 | Pushed 0 commits | [gkmraju/GitNexus](https://github.com/gkmraju/GitNexus) |
+| 2026-08-31 | Pull request opened | [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) |
+| 2026-08-31 | Pushed 0 commits | [gkmraju/GitHub-Contribution-Agent](https://github.com/gkmraju/GitHub-Contribution-Agent) |
+| 2026-08-31 | Created branch | [gkmraju/GitNexus](https://github.com/gkmraju/GitNexus) |
 
-| Work | Repository | Link |
-|:--|:--|:--:|
-| Reliable repository-native GitHub Pulse | `gkmraju/gkmraju` | [PR #3](https://github.com/gkmraju/gkmraju/pull/3) |
-| Premium AI + quant profile redesign | `gkmraju/gkmraju` | [PR #2](https://github.com/gkmraju/gkmraju/pull/2) |
-| Persisted Tailnet configuration guidance | `paperclipai/paperclip` | [PR #12213](https://github.com/paperclipai/paperclip/pull/12213) |
-| Bounded PDG guard-query documentation | `abhigyanpatwari/GitNexus` | [PR #3042](https://github.com/abhigyanpatwari/GitNexus/pull/3042) |
-| Deterministic bounty ranking tests | `gkmraju/Bounty-Radar` | [PR #16](https://github.com/gkmraju/Bounty-Radar/pull/16) |
-
-<sub>Verified directly from GitHub's contribution calendar and repository data · 26 August 2026. Daily automation keeps this snapshot current.</sub>
+<sub>Repository-native snapshot · Updated 2026-08-31 13:39 UTC from GitHub's API. The last successful snapshot remains visible if a refresh is interrupted.</sub>
 <!-- GITHUB-PULSE:END -->
 
 ## Build with me
