@@ -97,23 +97,23 @@ OPEN TO         →  Open-source collaboration · ambitious products · meaningf
 <!-- GITHUB-PULSE:START -->
 | 🔥 Current streak | 🏆 Longest streak | ⚡ Contributions · 365d | 📅 Active days · 365d |
 |:--:|:--:|:--:|:--:|
-| **27 days** | **27 days** | **419** | **92** |
+| **28 days** | **28 days** | **450** | **93** |
 
 | 📦 Public repositories | ✅ Merged PRs · all time | 🔀 PRs · 365d | 👀 Reviews · 365d |
 |:--:|:--:|:--:|:--:|
-| **37** | **14** | **49** | **0** |
+| **37** | **60** | **97** | **2** |
 
 ### Recent public activity
 
 | Date · UTC | Activity | Repository |
 |:--|:--|:--|
-| 2026-11-08 | Pushed updates | [gkmraju/GitHub-Contribution-Agent](https://github.com/gkmraju/GitHub-Contribution-Agent) |
-| 2026-11-07 | Pushed updates | [gkmraju/GitHub-Contribution-Agent](https://github.com/gkmraju/GitHub-Contribution-Agent) |
-| 2026-11-06 | Pushed updates | [gkmraju/GitHub-Contribution-Agent](https://github.com/gkmraju/GitHub-Contribution-Agent) |
-| 2026-11-05 | Pushed updates | [gkmraju/GitHub-Contribution-Agent](https://github.com/gkmraju/GitHub-Contribution-Agent) |
-| 2026-11-05 | Pushed updates | [gkmraju/OpenCLI](https://github.com/gkmraju/OpenCLI) |
+| 2026-11-10 | Pull request merged | [Dream-Team-Engineers/pushkara-mitra](https://github.com/Dream-Team-Engineers/pushkara-mitra) |
+| 2026-11-10 | Commented on an issue or pull request | [Dream-Team-Engineers/pushkara-mitra](https://github.com/Dream-Team-Engineers/pushkara-mitra) |
+| 2026-11-10 | Reviewed a pull request | [Dream-Team-Engineers/pushkara-mitra](https://github.com/Dream-Team-Engineers/pushkara-mitra) |
+| 2026-11-10 | Pull request labeled | [Dream-Team-Engineers/pushkara-mitra](https://github.com/Dream-Team-Engineers/pushkara-mitra) |
+| 2026-11-10 | Pull request opened | [Dream-Team-Engineers/pushkara-mitra](https://github.com/Dream-Team-Engineers/pushkara-mitra) |
 
-<sub>Repository-native snapshot · Updated 2026-11-10 07:22 UTC from GitHub's API. The last successful snapshot remains visible if a refresh is interrupted.</sub>
+<sub>Repository-native snapshot · Updated 2026-11-11 06:28 UTC from GitHub's API. The last successful snapshot remains visible if a refresh is interrupted.</sub>
 <!-- GITHUB-PULSE:END -->
 
 ## Build with me
